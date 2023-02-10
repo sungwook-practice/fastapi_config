@@ -4,8 +4,8 @@
 # 예제 목차
 * [class 예제](./use_settings_class/)
 * [class 예제 + dependecy](./use_settings_class_dependency/)
-* [env파일 예제](./env_file_dependency)
-* [env파일 여러개 예제](./env_files_dependency)
+* [env파일 예제](./env_file)
+* [env파일 여러개 예제](./env_files)
 
 
 # 실행방법
