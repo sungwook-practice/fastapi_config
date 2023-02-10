@@ -1,12 +1,12 @@
 from fastapi import Depends, FastAPI
 
-from config import Settings, loadSetting
+from config import Settings
 
 app = FastAPI()
 
 
 def get_settings() -> Settings:
-    return loadSetting()()
+    return Settings()
 
 
 @app.get("/info")
